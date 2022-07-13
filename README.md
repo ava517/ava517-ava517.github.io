@@ -1,6 +1,6 @@
 # Personal web 
 Jekyll Blog\
-Hi there :wave: I am passionate about Science and Language. Grown up in multiculture background, I once worked at global tech company where I acted as a focal point between R&D department and Matrix Owners. Most recently, I helped an oil & gas british company sponsored by British Chamber of Commerce to handle a clean tech project.
+Hi there :wave: I am passionate about Science and Language. Grown up in multiculture background, I once worked at global tech company where I acted as a focal point between R&D department and Program Managers. Most recently, I helped an oil & gas british company sponsored by British Chamber of Commerce to handle a clean tech project.
 
 [TEDx Talks](https://www.ted.com/profiles/3699807/translator)\
 [Novel Translation](https://issuu.com/avaruan/docs/_______________)\
