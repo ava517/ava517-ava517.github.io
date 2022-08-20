@@ -7,4 +7,4 @@ Hi there :wave: I am passionate about Science and Language. Grown up in multicul
 [MT Survey](https://ava517.github.io/Survey.html)\
 [Written Articles](https://ava517.medium.com)\
 [Given Speech](https://www.youtube.com/watch?v=VIK8BKPsKk4)\
-[Attended Events & Project](https://ava517.github.io/Attended.html)
+[Events & Project](https://ava517.github.io/Attended.html)
