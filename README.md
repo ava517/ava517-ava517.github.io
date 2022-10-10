@@ -6,5 +6,5 @@ Hi there :wave: I am :woman_technologist: :taiwan: passionate about Science and 
 [Novel Translation](https://issuu.com/avaruan/docs/_______________)\
 [MT Survey](https://ava517.github.io/Survey.html)\
 [Written Articles](https://ava517.medium.com)\
-[Given Speech](https://www.youtube.com/watch?v=VIK8BKPsKk4)\
-[Events & Project](https://ava517.github.io/Attended.html)
+[Events & Project](https://ava517.github.io/Attended.html)\
+[Given Speech](https://www.youtube.com/watch?v=VIK8BKPsKk4)
